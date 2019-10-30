@@ -1,8 +1,5 @@
 /**
- * 
- */
-/**
  * @author stagiaire
  *
  */
-package frcom.example;
+package com.example;
